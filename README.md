@@ -3,7 +3,7 @@ Application for Todo List  (ReactJS &amp; Bootstrap 4 &amp; React Hooks)
 
 I made a simple CRUD app on React Hooks that can add, update, delete or strike out tasks.
 
-## [Demo Version](https://antishev-todohooks-app.herokuapp.com/)
+## [Demo Version](https://yuriantishev.github.io/todohooksapp/)
 
 ## Technologies in use
 
